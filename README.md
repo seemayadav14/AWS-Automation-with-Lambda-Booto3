@@ -1,2 +1,5 @@
-Architecture
-![Architecture] (Screenshoot/Architecture of project.png)
+# Architecture
+
+ 
+
+![Architecture](Screenshot/Architecture%20of%20project.png)
