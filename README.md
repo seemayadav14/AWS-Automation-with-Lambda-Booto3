@@ -2,4 +2,4 @@
 
  
 
-![Architecture](Screenshot/Architecture%20of%20project.png)
+![Architecture](Screenshoot/Architecture%20of%20project.png)
